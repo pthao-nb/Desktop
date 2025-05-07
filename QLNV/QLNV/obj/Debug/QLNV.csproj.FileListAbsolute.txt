@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.Form2.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.pdb
