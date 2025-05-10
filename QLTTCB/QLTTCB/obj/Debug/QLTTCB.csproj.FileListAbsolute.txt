@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\bin\Debug\QLTTCB.exe.config
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\bin\Debug\QLTTCB.exe
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\bin\Debug\QLTTCB.pdb
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.Form1.resources
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.Form2.resources
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.exe
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.pdb
+C:\Users\Admin\source\repos\QLTTCB\QLTTCB\obj\Debug\QLTTCB.Form3.resources
