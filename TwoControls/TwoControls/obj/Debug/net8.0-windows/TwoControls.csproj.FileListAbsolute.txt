@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TwoControls\TwoControls\bin\Debug\net8.0-windows\TwoControls.exe
+C:\Users\Admin\source\repos\TwoControls\TwoControls\bin\Debug\net8.0-windows\TwoControls.deps.json
+C:\Users\Admin\source\repos\TwoControls\TwoControls\bin\Debug\net8.0-windows\TwoControls.runtimeconfig.json
+C:\Users\Admin\source\repos\TwoControls\TwoControls\bin\Debug\net8.0-windows\TwoControls.dll
+C:\Users\Admin\source\repos\TwoControls\TwoControls\bin\Debug\net8.0-windows\TwoControls.pdb
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.dll
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\refint\TwoControls.dll
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.pdb
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\TwoControls.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TwoControls\TwoControls\obj\Debug\net8.0-windows\ref\TwoControls.dll

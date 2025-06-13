@@ -1,0 +1,50 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator"
+        SizeToContent="WidthAndHeight"
+        Background="Beige" Height="342" Width="294" FontSize="15">
+    <StackPanel 
+        HorizontalAlignment="Center" 
+        VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal" Height="74" Width="263">
+            <Label Margin="10"
+                   Target="{Binding ElementName=txtOp1}" Height="52" Width="83" FontSize="15">
+                Operand _1:
+            </Label>
+            <TextBox Margin="10"
+                     Width="123"
+                     Name="txtOp1" Height="46"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10"
+                   Target="{Binding ElementName=txtOp2}" FontSize="15">
+                Operand _2:
+            </Label>
+            <TextBox Margin="10" 
+                     Width="124" 
+                     Name="txtOp2" Height="42"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Height="51" Width="246">
+            <Button Margin="10"
+                    Width="60"
+                   Name="btnAdd" Click="btnAdd_Click" FontSize="15">
+                _Add
+            </Button>
+            <Button Margin="10"
+                    Width="80"
+                    Name="btnSubtract" Click="btnSubtract_Click" FontSize="15">
+                _Subtract
+            </Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10" Content="Answer:" FontSize="15"/>
+            <TextBox Margin="10" 
+                     Width="110" 
+                     x:Name="txtAns" IsReadOnly="True" Height="32"/>
+        </StackPanel>
+        <CheckBox Margin="10" Name="chkCenter" 
+                  Content="Center Numeric Values" Height="29" Width="248" RenderTransformOrigin="0.575,0.677" Checked="chkCenter_Checked_1" FontSize="15">
+        </CheckBox>
+    </StackPanel>
+</Window>
