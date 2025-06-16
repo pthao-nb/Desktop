@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.Form1.resources
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.Form2.resources
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.Form3.resources
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.Properties.Resources.resources
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\bin\Debug\QUANLYXE.exe.config
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\bin\Debug\QUANLYXE.exe
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\bin\Debug\QUANLYXE.pdb
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.exe
+C:\Users\Admin\source\repos\QUANLYXE\QUANLYXE\obj\Debug\QUANLYXE.pdb
