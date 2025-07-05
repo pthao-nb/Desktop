@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe.config
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.pdb
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Properties.Resources.resources
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.exe
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.pdb
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\QuanLyBanHang.FormSanPham.resources
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\QuanLyBanHang.FormHoaDon.resources
+C:\Users\Admin\source\repos\Quản lý bán hàng\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.FormMain.resources
